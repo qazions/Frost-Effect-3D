@@ -15,3 +15,13 @@ Clone the repository and add the Freeze Shader to your Unity project to start us
 
 Keywords
 Unity, Freeze Shader, Frost Effect, Ice Shader, Unity Shader, 3D Character, Unity3D, Shader Graph, Frosted Effect, C# Shader Control, Mobile Optimization, Unity Asset, Dynamic Effects, Shader Model 2.0, Game Effects, Winter Effects, Unity Materials, FrostManager, Shader Tutorial, Open Source Shader
+# Freeze Shader for Unity - Frost Effect on 3D Characters and Objects
+
+
+
+[Watch Demo on YouTube](https://youtu.be/vuNlB-QLw70)
+
+This project provides a powerful Freeze Shader for Unity...
+
+# Key Features
+- **Customizable Frost Effect**: Adjust freeze intensity, frost texture...
